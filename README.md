@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**paccuk/paccuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=paccuk&color=273849&label=VIEWS)
 
-Here are some ideas to get you started:
+<p>
+<a href="https://github.com/paccuk/github-readme-stats" rel="noopener noreferrer nofollow">
+  <img src="https://github-readme-stats.vercel.app/api?username=paccuk&show_icons=true&layout=compact&theme=vue-dark&card_width=330&card_height=100" style="max-width: 100%;"/>
+</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/streak-stats" rel="noopener noreferrer nofollow">
+  <img height=150 src="https://github-readme-streak-stats.herokuapp.com?user=paccuk&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" style="max-width: 100%;"/>
+</a>
+<a href="https://github.com/paccuk/convoychat" rel="noopener noreferrer nofollow">
+  <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs?username=paccuk&layout=compact&langs_count=8&theme=vue-dark" style="max-width: 100%;"/>
+</a>
