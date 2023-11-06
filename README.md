@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=paccuk&color=273849&label=VIEWS)
 
 <p><a href="https://github.com/paccuk/github-readme-stats" rel="noopener noreferrer nofollow">
-  <img width=450 src="https://github-readme-stats.vercel.app/api?username=paccuk&show_icons=true&layout=compact&theme=vue-dark" style="max-width: 100%;"/>
+  <img width=450 src="https://github-readme-stats.vercel.app/api?username=paccuk&show_icons=true&layout=compact&theme=transparent&title_color=d29922&text_color=c7c7c7&icon_color=78647e&border_color=78647e" style="max-width: 100%;"/>
 </a></p>
 
 <!--<p><a href="https://git.io/streak-stats" rel="noopener noreferrer nofollow">
@@ -12,7 +12,7 @@
 </a></p>-->
 
 <p><a href="https://github.com/paccuk/convoychat" rel="noopener noreferrer nofollow">
-  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=paccuk&layout=compact&langs_count=8&theme=vue-dark" style="max-width: 100%;"/>
+  <img width=300 src="https://github-readme-stats.vercel.app/api/top-langs?username=paccuk&layout=compact&langs_count=8&theme=transparent&title_color=d29922&text_color=c7c7c7&icon_color=78647e&border_color=78647e" style="max-width: 100%;"/>
 </a></p>
 
 
